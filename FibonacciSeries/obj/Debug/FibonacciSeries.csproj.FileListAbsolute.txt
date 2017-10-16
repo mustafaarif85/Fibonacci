@@ -1,0 +1,6 @@
+E:\Mustafa\Projects\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+E:\Mustafa\Projects\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+E:\Mustafa\Projects\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+E:\Mustafa\Projects\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csprojResolveAssemblyReference.cache
+E:\Mustafa\Projects\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+E:\Mustafa\Projects\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
